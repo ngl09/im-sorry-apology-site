@@ -187,7 +187,7 @@ export function LetterPage() {
               <button className="reveal-button" onClick={() => setExpanded(true)}>read full message <ArrowRight size={15} /></button>
             </>
           ) : (
-            <p className="letter-body">Hello, this is a neutral message placeholder. Replace this paragraph with your own content when ready.</p>
+            <p className="letter-body">Hey baby ik i did hurt u a lot in these couple of days and i feel so bad for it i cant even explain.I love you so much thats why i may act like that because i dont want to lose you and i realised that ill do it over sometimes and u may feel too much at that point and cant tell me also because u think ill feel bad pls give me one last chance ill change it and show u.You know how much u mean you me and how much i love you.Im so sorry and i promise i wont let u down this time.Ill be waiting for ur call pls call at night before u sleep love you so much and i miss u so much. As always nan bangara scared to give kissi ill give once u forgive me. </p>
           )}
           <div className="letter-signoff">sincerely,<br /><strong>the team</strong></div>
         </div>
