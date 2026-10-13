@@ -61,13 +61,13 @@ export default function Home() {
       <div className="dm-header">
         <div className="avatar avatar--muted">•</div>
         <div>
-          <p className="dm-name">a friend</p>
+          <p className="dm-name">my everything</p>
           <p className="dm-status">sent recently</p>
         </div>
       </div>
       <div className="dm-thread">
         <p className="dm-date">today</p>
-        <div className="dm-bubble dm-bubble--received">Hi — I'd like to share a short note.</div>
+        <div className="dm-bubble dm-bubble--received">Hi baby pls see ts once no.</div>
         <div className="qr-card" aria-label="Decorative scan card">
           <div className="qr-holly">✦　•　✦</div>
           <div className="qr-code">{Array.from({ length: 49 }).map((_, i) => <i key={i} className={i % 3 === 0 || i % 7 === 0 ? "is-dark" : ""} />)}</div>
@@ -109,7 +109,7 @@ export function AcknowledgmentPage() {
         <div className="copy-block">
           <p className="eyebrow">a clear statement</p>
           <h2>A quick acknowledgment</h2>
-          <p>I want to acknowledge something that happened and express my intent to do better.</p>
+          <p>I want to say smtg ok ik i mad u feel bad but i promise i wont repeat ts again n let u down</p>
         </div>
         <Link href="/little-things" className="soft-button soft-button--secondary">next <ArrowRight size={17} /></Link>
       </section>
